@@ -20,7 +20,7 @@
 
 - 👨‍💻 Explore my projects here: [EsperaVortex's Projects](http://github.com/EsperaVortex)
 
-- 📫 How to reach me: [Email](mailto:youremail@example.com)
+- 📫 How to reach me: [Email](mailto:sujalawale05@gmail.com)
 
 - 📄 Check out my experiences on [my resume](https://cv.sujalawale.com.np)
 
@@ -47,7 +47,7 @@
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,tailwindcss" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,tailwindcss,bootstrap" />
   </a>
 </p>
 
