@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Sujal Awale</h1>
 <h3 align="center">Passionate Developer from Nepal</h3>
-<p align="center">I am fascinated by the impact of technology on our lives and enjoy leveraging new tech stacks to build innovative solutions.</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=EsperaVortex&label=Profile%20views&color=0e75b6&style=flat" alt="Espera Vortex" /> 
 </p>
