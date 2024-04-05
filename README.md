@@ -1,7 +1,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<h1 align="center">Hi 👋, I'm Espera Vortex</h1>
-<h3 align="center">Passionate Developer from [Your Location]</h3>
+<h1 align="center">Hi 👋, I'm Sujal Awale</h1>
+<h3 align="center">Passionate Developer from Nepal</h3>
 <p align="center">I am fascinated by the impact of technology on our lives and enjoy leveraging new tech stacks to build innovative solutions.</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=EsperaVortex&label=Profile%20views&color=0e75b6&style=flat" alt="Espera Vortex" /> 
@@ -9,8 +9,6 @@
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
@@ -18,17 +16,13 @@
 
 <br>
 
-- 🔭 I’m currently working at **[Your Current Workplace]**
-
-- 🌱 I’m currently learning **DevOps and Cloud Technologies**
+- 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 Explore my projects here: [EsperaVortex's Projects](http://github.com/EsperaVortex)
 
-- 💬 Ask me about **Java, Python, TypeScript, and React**
-
 - 📫 How to reach me: [Email](mailto:youremail@example.com)
 
-- 📄 Check out my experiences on [my resume](http://yourresume.example.com)
+- 📄 Check out my experiences on [my resume](https://cv.sujalawale.com.np)
 
 <br>
 <h3 align="left">Connect with me:</h3>
